@@ -175,6 +175,8 @@ What is Repeat in Charles Proxy?
 
 Answer:
 
+Repeat = Charles itself becomes the client and sends the same request to the server again.
+
 Repeat is used to resend an existing request without performing the action again in the application. It helps in debugging and retesting APIs quickly.
 
 ```
