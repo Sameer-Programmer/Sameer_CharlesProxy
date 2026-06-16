@@ -35,6 +35,7 @@ Allow
 ## Verification
 
 Open any website from mobile.
+I took for Testing is https://jsonplaceholder.typicode.com/posts
 
 Traffic should appear in Charles Proxy.
 
