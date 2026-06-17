@@ -1,2 +1,5 @@
 - https://jsonplaceholder.typicode.com/todos/1
 - https://jsonplaceholder.typicode.com/posts?userId=1
+- https://petstore.swagger.io/#/
+- For Videos - Hands On learning 
+-https://youtu.be/YEY7Vdqjm_Q?si=OBaESrLJybOSJ5gF
